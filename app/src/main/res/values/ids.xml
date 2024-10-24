@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rbIncome" type="id">rbIncome</item>
+    <item name="tvAmount" type="id">tvAmount</item>
+    <item name="fabAddTransaction" type="id">fabAddTransaction</item>
+    <item name="tvSaldo" type="id">tvSaldo</item>
+    <item name="lvTransactions" type="id">ivTransactons</item>
+    <item name="etDescription" type="id">etDescription</item>
+    <item name="etAmount" type="id">etAmount</item>
+    <item name="rgCategory" type="id">rgCategory</item>
+    <item name="btnSave" type="id">btnSave</item>
+    <item name="etDate" type="id">etDate</item>
+</resources>
